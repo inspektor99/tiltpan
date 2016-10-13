@@ -4,7 +4,7 @@
   "description": "tilt and pan servos",
   "main": "index.js",
   "scripts": {
-    "go2": "node index.js"
+    "dixout": "node index.js"
   },
   "author": "",
   "license": "ISC",
